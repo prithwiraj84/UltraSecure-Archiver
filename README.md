@@ -128,7 +128,7 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/UltraSecureArchiver.git
+git clone https://github.com/prithwiraj84/UltraSecureArchiver.git
 cd UltraSecureArchiver
 
 # 2️⃣ Install dependencies
