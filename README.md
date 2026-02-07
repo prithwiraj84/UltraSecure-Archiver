@@ -344,9 +344,9 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/prithwiraj84/UltraSecureArchiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecureArchiver/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/prithwiraj84/UltraSecureArchiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecureArchiver/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/prithwiraj84/UltraSecureArchiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecureArchiver/pulls)
+[![Contributors](https://img.shields.io/github/contributors/prithwiraj84/UltraSecure-Archiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecure-Archiver/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/prithwiraj84/UltraSecure-Archiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecure-Archiver/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/prithwiraj84/UltraSecure-Archiver?style=for-the-badge)](https://github.com/prithwiraj84/UltraSecure-Archiver/pulls)
 
 </div>
 
